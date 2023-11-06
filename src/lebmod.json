@@ -1,17 +1,17 @@
 {
-    "name": "Example LEB Mod",
-    "description": "This is an example mod, your description goes here!",
-    "authors": "DBTDerpbox",
+    "name": "S_N00B's Dig Remaster",
+    "description": "A version of dig with a fresh coat of paint for new versions.",
+    "authors": "S_N00B",
     "version": "1",
-    "id": "examplemod",
+    "id": "snoobdig",
     "type": "map",
     "pack": "vanilla",
     "hassmall": false,
-    "haslarge": true,
+    "haslarge": false,
     "haslargeplus": false,
-    "hasremastered": false,
+    "hasremastered": true,
     "centercoords_small": "0 0 0",
     "centercoords_large": "0 0 0",
     "centercoords_largeplus": "0 0 0",
-    "centercoords_remastered": "0 0 0"
+    "centercoords_remastered": "59 64 136"
 }

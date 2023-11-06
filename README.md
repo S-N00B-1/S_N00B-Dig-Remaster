@@ -1,7 +1,5 @@
-# Example LEM Mod
+# S_N00B's Dig Remaster
 
-Example LEM-ModTools repository, it has a example map inside it as well if you want to just test out the compiler
+"A version of dig with a fresh coat of paint for new versions."
 
-If you're actually making a map, you should replace the example map with yours
-
-For information on how to actually use this repository, please see the [LEM-ModTools documentation](https://github.com/Legacy-Edition-Minigames/ModTools/wiki)
+Designed for use on the [LEM servers](http://minigames.derpbox.xyz/) 
